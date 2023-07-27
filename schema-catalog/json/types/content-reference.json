@@ -1,0 +1,11 @@
+{
+    "$id": "https://resource.pipeforce.io/v1/schema/json/types/content-reference.json",
+    "type": "object",
+    "properties": {
+        "name": {"type": "string"},
+        "contentLength": {"type": "number"},
+        "contentType": {"type": "string"},
+        "contentEncoding": {"type": "string"},
+        "content": {"type": "string"}
+    }
+}
