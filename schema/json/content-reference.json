@@ -1,5 +1,5 @@
 {
-    "$id": "https://resource.pipeforce.io/v1/schema/json/types/content-reference.json",
+    "$id": "https://resource.pipeforce.io/latest/schema/json/content-reference.json",
     "type": "object",
     "properties": {
         "name": {"type": "string"},
